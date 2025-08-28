@@ -1,0 +1,3 @@
+My self Mounika Nagaramani
+My course:bca
+I have learned that GitHub serves as a web-based platform built on Git, enabling collaborative version control and hosting of software development projects
